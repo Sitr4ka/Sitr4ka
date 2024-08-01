@@ -1,7 +1,9 @@
 # Welcome to my github profile!
 
 Hi there 👋! 
-I'm RAKOTOMALALARINTSOA Sitraka Fifaliana, a student at Ecole Nationale d'Informatique, passionate about discovering new technologies. 💻🚀
+I'm RAKOTOMALALARINTSOA Sitraka Fifaliana, 
+a student at Ecole Nationale d'Informatique, 
+passionate about discovering new technologies. 💻🚀
 
 ## 👨‍💻 Skills
 - **Programming Languages**: PHP, Javascript, HTML & CSS
