@@ -10,6 +10,6 @@ passionate about discovering new technologies. 💻🚀
 - **Frameworks**: Symfony, Laravel, Vuejs
 
 ## 📫 Contact me
-I am always open to new collaboration opportunities or just discussing technology. Feel free to reach me out to me via:
+I am always open to new collaboration opportunities or just discussing technology. Feel free to reach out to me via:
 - **📧 Email**: sitrakarakotomalalarintsoa@gmail.com
 - **🌐 Linkedin**: https://www.linkedin.com/in/sitraka-fifaliana-rakotomalalarintsoa-4ba1a3296/
